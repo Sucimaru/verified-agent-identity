@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'Sucimaru'
         required: true
-        default: 'Sucaru'
+        default: 'Sucimaru'
       agent_description:
         description: 'Sucimaru'
         required: true
